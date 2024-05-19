@@ -1,0 +1,4 @@
+name = "pokemon_backend"
+version = "0.1.0"
+description = "A simple Pokémon backend in Gleam"
+authors = ["Your Name <your.email@example.com>"]
