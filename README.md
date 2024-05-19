@@ -16,7 +16,7 @@ A simple backend for managing Pokémon using the [Gleam](https://gleam.run) prog
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/pokemon-backend-gleam.git
+   git clone https://github.com/dagrig/pokemon-backend-gleam.git
    cd pokemon-backend-gleam
    ```
 
@@ -66,6 +66,3 @@ Feel free to submit pull requests, report issues, or suggest features!
 ## License
 
 This project is licensed under the MIT License.
-```
-
-Replace `your-username` in the clone URL with your actual GitHub username. This `README.md` provides a clear overview of the project, how to set it up, and how to use it.
